@@ -49,7 +49,8 @@ to set your account's default identity.
 Omit --global to set the identity only in this repository.
 
 fatal: unable to auto-detect email address (got 'mp394@LAPTOP-J0A67TPH.(none)')
-PS C:\Users\mp394\Desktop\github\Demo1> git push
-info: please complete authentication in your browser...
-Everything up-to-date
-PS C:\Users\mp394\Desktop\github\Demo1> 
+PS C:\Users
+PS C:\Users\mp394\Desktop\github\Demo1>
+
+
+12442512154321412151343423
